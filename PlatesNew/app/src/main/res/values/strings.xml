@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Понаехали</string>
+    <string name="logo">Номерной Знак</string>
+    <string name="User_Hint">142, 76, 21</string>
+    <string name="User_Hint2">  </string>
+    <string name="button_press">откуда</string>
+    <string name="no_user_input">циферки введи, малыш</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
